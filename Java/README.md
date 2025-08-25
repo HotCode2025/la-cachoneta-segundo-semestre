@@ -1,2 +1,1 @@
-esta semana la clase Java le toco al equipo 1
-compuesto por German Fratucello, Nicolas Cohen, Ramiro Soria, Mauricio Esparza
+<br>Día 25/08 Se sube clase 1 de Java</br>

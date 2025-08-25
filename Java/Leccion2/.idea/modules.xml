@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CicloWhile/CicloWhile.iml" filepath="$PROJECT_DIR$/CicloWhile/CicloWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CondicionalEjercicio1/CondicionalEjercicio1.iml" filepath="$PROJECT_DIR$/CondicionalEjercicio1/CondicionalEjercicio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CondicionalEjercicio2/CondicionalEjercicio2.iml" filepath="$PROJECT_DIR$/CondicionalEjercicio2/CondicionalEjercicio2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CondicionalEjercicio3/CondicionalEjercicio3.iml" filepath="$PROJECT_DIR$/CondicionalEjercicio3/CondicionalEjercicio3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjercicioCiclo01/EjercicioCiclo01.iml" filepath="$PROJECT_DIR$/EjercicioCiclo01/EjercicioCiclo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjercicioCiclos02/EjercicioCiclos02.iml" filepath="$PROJECT_DIR$/EjercicioCiclos02/EjercicioCiclos02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leccion2.iml" filepath="$PROJECT_DIR$/Leccion2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leccionClasesObjetos/leccionClasesObjetos.iml" filepath="$PROJECT_DIR$/leccionClasesObjetos/leccionClasesObjetos.iml" />
+    </modules>
+  </component>
+</project>
