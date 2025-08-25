@@ -1,1 +1,0 @@
-<br> Día 25/08 Se sube clase 1 de JavaScript</br>
