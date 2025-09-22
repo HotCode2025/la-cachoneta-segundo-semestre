@@ -122,7 +122,7 @@ let miNumero2 = 1; //Simplificada
 //Diferentes formas de crear booleanos
 //caso boolean 1
 let miBoolean1 = new Boolean(false); //Formal
-//caso bolean 2
+//caso boolean 2
 let miBoolean2 = false; //Simplificada
 
 //Diferentes formas de crear arreglos
@@ -136,3 +136,32 @@ let miArreglo2 = []; //Simplificada
 let miFuncion1 = new function(){}; //Todo despues de new es considerado objeto
 //caso funcion 2
 let miFuncion2 = function(){}; //Simplificada
+
+// uso de prototype 
+Persona3.prototype.telefono = '1234321413124';
+console.log(padre);
+console.log(madre.telefono);
+madre.telefono = '123214553453';
+console.log(madre.telefono);
+
+// uso de call
+let persona4 = {
+    nombre: 'Juan',
+    apellido: 'Perez',
+    nombreCompleto2: function(titulo, telefono){
+        return titulo+ ': '+this.nombre+ ' '+ this.apellido+ ' '+ telefono;
+        //return this.nombre + ' ' + this.apellido;
+    }
+} 
+
+let persona5 = {
+    nombre: 'Carlos',
+    apellido: 'Lara'
+}
+
+console.log(persona4.nombreCompleto2('Lic.', '12321421421'));
+console.log(persona4.nombreCompleto2.call(persona5, 'Ing', '15413543261124'));
+
+// metodo apply
+let arreglo = ['Ing.', '54612343214'];
+console.log(persona4.nombreCompleto2.apply(persona5, arreglo));
