@@ -1,5 +1,9 @@
+
 import javax.swing.JOptionPane;
 
+//Proyecto caja:
+//Ejercicio 1: Crear un proyecto según las especificaciones mostradas a continuación.
+//La fórmula es: volumen = ancho * alto * profundidad.
 public class Caja2 {
     int ancho;
     int alto;
