@@ -30,7 +30,7 @@ public class Caja2 {
 
             JOptionPane.showMessageDialog(null, "El volumen de la caja es: " + volumen);
         } catch (NumberFormatException e) {
-            JOptionPane.showMessageDialog(null, "⚠️ Error: Ingresá solo números enteros válidos.");
+            JOptionPane.showMessageDialog(null, "Error: Ingresá solo números enteros válidos.");
         }
     }
 }
