@@ -3,6 +3,7 @@ import Clases.Persona;
 public class PersonaPrueba {
 	public static void main(String[] args) {
 		Persona persona1 = new Persona("Osvaldo",57000, false);
+		System.out.println("persona1 = " + persona1);
 		persona1.setNombre("Marcos");
 		System.out.println("el nombre modificado de persona1: " + persona1.getNombre());
 		System.out.println("el sueldo de persona1: $" + persona1.getSueldo());
@@ -28,6 +29,6 @@ public class PersonaPrueba {
 		System.out.println("el nombre arreglado de persona2: " + persona2.getNombre());
 		System.out.println("el sueldo modificado de persona2: $" + persona2.getSueldo());
 		System.out.println("Obtengo booleano de persona2 modificado: " + persona1.isEliminado());
-
+		
 	}
 }
