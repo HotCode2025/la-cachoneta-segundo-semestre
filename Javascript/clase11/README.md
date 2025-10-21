@@ -1,4 +1,4 @@
-Tarea de Java Script
+Tarea de JavaScript
 
 Integrantes: Nicolas Cohen, Samuel Rodríguez, Mauricio Esparza,
 Cristhian Barrientos, Ramiro Soria, Enzo Ulloa, Emmanuel Yapura, Germán
