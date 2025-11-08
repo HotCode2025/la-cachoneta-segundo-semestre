@@ -31,6 +31,7 @@ Clase realizada por: Agustín Gonzalez y Esteban
 # Clase 11 - Oct 20, 2025
 Clase realizada por: Nicolas Cohen, Ramiro Soria y German Fratucello
 
-# Clase 12 - 
-Clase realizada por: 
+# Clase 12 - Nov 8, 2025
+Clase realizada por: Agustín Gonzalez y Esteban
+
 
