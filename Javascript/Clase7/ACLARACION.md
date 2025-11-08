@@ -1,0 +1,1 @@
+<!-- Hola,Profe, tutores. Este readme es para aclarar la subida de clases 7,8,9. A la hora de hacer la practica en los videos se le denomina Leccion 7, que incluye las clases antes mencionadas, por un tema de orden incluimos una carpeta llamada "Clase7" que cumple la funcion de "Leccion7" y contiene las clases 8,9. -->
