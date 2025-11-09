@@ -1,7 +1,7 @@
-# Clase 1 - Sep 1, 2025
+# Clase 1 - Aug 25, 2025
 Clase realizada por: Cristhian Barrientos, Emmanuel Yapura
 
-# Clase 2 - Sep 8, 2025
+# Clase 2 - Aug 25, 2025
 Clase realizada por: Nicolas Cohen, Ramiro Soria y German Fratucello
 
 # Clase 3 - Sep 1, 2025
@@ -33,5 +33,6 @@ Clase realizada por: Nicolas Cohen, Ramiro Soria y German Fratucello
 
 # Clase 12 - Nov 8, 2025
 Clase realizada por: Agustín Gonzalez y Esteban
+
 
 
