@@ -90,7 +90,7 @@ Toda la lógica se encuentra implementada con **clases separadas** (`Producto`, 
 
 ---
 
-## Ejecución del Proyecto
+## Ejecución del Proyecto (En VSC)
 1. Abrir la carpeta del proyecto en **Visual Studio Code** 
 2. Compilar el codigo fuente 
     ```
