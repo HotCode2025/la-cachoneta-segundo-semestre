@@ -1,7 +1,5 @@
 package herencia.test;
-
 import java.util.Date;
-
 import herencia.domain.Cliente;
 import herencia.domain.Empleado;
 

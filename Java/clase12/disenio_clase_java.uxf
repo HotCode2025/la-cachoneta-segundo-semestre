@@ -1,4 +1,4 @@
-<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLClass</id><coordinates><x>360</x><y>220</y><w>320</w><h>570</h></coordinates><panel_attributes></panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>360</x><y>190</y><w>180</w><h>30</h></coordinates><panel_attributes>Un dominio, dirección</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>380</x><y>250</y><w>270</w><h>200</h></coordinates><panel_attributes>&lt;&lt;Orden&gt;&gt;
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLClass</id><coordinates><x>60</x><y>160</y><w>320</w><h>570</h></coordinates><panel_attributes></panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>60</x><y>130</y><w>180</w><h>30</h></coordinates><panel_attributes>Un dominio, dirección</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>80</x><y>190</y><w>270</w><h>200</h></coordinates><panel_attributes>&lt;&lt;Orden&gt;&gt;
 --
 -idOrden
 -producto[]: Producto
@@ -12,7 +12,7 @@ _MAX_PRODUCTOS: int = 10_
 --
 Responsabilidades
 --Crear objetos Orden
---Administrar los productos</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>380</x><y>490</y><w>270</w><h>250</h></coordinates><panel_attributes>&lt;&lt;Producto&gt;&gt;
+--Administrar los productos</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>80</x><y>430</y><w>270</w><h>250</h></coordinates><panel_attributes>&lt;&lt;Producto&gt;&gt;
 --
 -idProducto: int
 -nombre: String
@@ -29,7 +29,7 @@ _-contadorProductos: int_
 +toString(): String
 --
 Responsabilidades
-- Crear objetos de tipo producto</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>540</x><y>190</y><w>240</w><h>30</h></coordinates><panel_attributes>lt=&lt;&lt;.&gt;&gt;</panel_attributes><additional_attributes>10;10;220;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>770</x><y>220</y><w>320</w><h>170</h></coordinates><panel_attributes></panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>770</x><y>190</y><w>180</w><h>30</h></coordinates><panel_attributes>TestVentas</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>810</x><y>260</y><w>210</w><h>100</h></coordinates><panel_attributes>&lt;&lt;VentasTest&gt;&gt;
+- Crear objetos de tipo producto</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>240</x><y>130</y><w>240</w><h>30</h></coordinates><panel_attributes>lt=&lt;&lt;.&gt;&gt;</panel_attributes><additional_attributes>10;10;220;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>470</x><y>160</y><w>320</w><h>170</h></coordinates><panel_attributes></panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>470</x><y>130</y><w>180</w><h>30</h></coordinates><panel_attributes>TestVentas</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>510</x><y>200</y><w>210</w><h>100</h></coordinates><panel_attributes>&lt;&lt;VentasTest&gt;&gt;
 --
 +main(args: String[]): void
 --

@@ -23,7 +23,7 @@ public class SumaScanner {
 //ahora con JOptionePane
 import javax.swing.JOptionPane;
 
-public class SumaJOptionPane {
+public class ejercicio_1 {
     public static void main(String[] args) {
         int numero;
         int suma = 0;
