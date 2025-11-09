@@ -1,5 +1,5 @@
 # Clase 1 - Aug 25, 2025
-Clase realizada por: Cristhian Barrientos, Emmanuel Yapura
+Clase realizada por: Cristhian Barrientos, Emmanuel Yapura y Enzo Ulloa
 
 # Clase 2 - Aug 25, 2025
 Clase realizada por: Nicolas Cohen, Ramiro Soria y German Fratucello
@@ -8,7 +8,7 @@ Clase realizada por: Nicolas Cohen, Ramiro Soria y German Fratucello
 Clase realizada por: Agustín Gonzalez y Esteban
 
 # Clase 4 - Sep 9, 2025
-Clase realizada por: Cristhian Barrientos, Emmanuel Yapura
+Clase realizada por: Cristhian Barrientos, Emmanuel Yapura y Enzo Ulloa
 
 # Clase 5 - Sep 29, 2025
 Clase realizada por: Nicolas Cohen, Ramiro Soria y German Fratucello
@@ -23,7 +23,7 @@ Clase realizada por: Agustín Gonzalez y Esteban
 Clase realizada por: Agustín Gonzalez y Esteban
 
 # Clase 9 - Nov 6, 2025
-Clase realizada por: Cristhian Barrientos, Emmanuel Yapura
+Clase realizada por: Cristhian Barrientos, Emmanuel Yapura y Enzo Ulloa
 
 # Clase 10 - Oct 14, 2025
 Clase realizada por: Agustín Gonzalez y Esteban
@@ -33,6 +33,7 @@ Clase realizada por: Nicolas Cohen, Ramiro Soria y German Fratucello
 
 # Clase 12 - Nov 8, 2025
 Clase realizada por: Agustín Gonzalez y Esteban
+
 
 
 
