@@ -1,5 +1,7 @@
 # Proyecto Integrador La Cachoneta
 
+## [Video del Proyecto Integrador](https://www.youtube.com/watch?v=CD1fKVgbWkQ)
+
 ## Verduleria Don Cacho
 
 ##  1. Introducción
@@ -26,14 +28,16 @@ Toda la lógica se encuentra implementada con **clases separadas** (`Producto`, 
 
 ## 3. Integrantes
 
-- **Agustín Gonzalez** 
-- **Cristhian Barrientos**
-- **Emmanuel Yapura**
-- **Enzo Ulloa**
-- **Esteban Montenegro**
-- **Germán Fratucello**
-- **Nicolas Cohen**
-- **Ramiro Soria**
+- **Agustín Gonzalez** Realizo la funcion de Modificar Producto
+- **Cristhian Barrientos** Realizo la función de Agregar Producto
+- **Emmanuel Yapura** Realizo la función de Mostrar Producto
+- **Enzo Ulloa** Propuso y creo la Clase Producto
+- **Esteban Montenegro** Realizo la función de Stock Critico
+- **Germán Fratucello** Realizo la función de Eliminar Producto
+- **Nicolas Cohen** Realizo la función de Vender Producto
+- **Ramiro Soria** Realizo la función de Mostrar Total de Ventas
+
+En conjunto creamos la Clase Verduleria, su conexion con la Clase Producto, el uso de ArrayList y los diferentes metodos dentro de cada clase.
 
 ---
 
